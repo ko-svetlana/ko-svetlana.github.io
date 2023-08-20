@@ -1,13 +1,19 @@
-title: Kochmina Svetlana # name (website title) 
+title: <p align="center">Светлана Кочмина</p> # name (website title) 
 logo: "/images/logo.png?raw=true" # photo 
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://ko-svetlana.github.io">GitHub</a>
+  </p>
+  
+  <p align="justify">
+  Аналитик данных. Специализации: продуктовая аналитика • BI аналитика • финансовая аналитика
   <br><br>
-  Second description 
+  Нахожу и предлагаю эффективные решения, соответствующие потребностям бизнеса, в четко обозначенные сроки. Умею коммуницировать с бизнес-командами, выявлять требования, презентовать результаты.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  </p>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+
