@@ -14,6 +14,9 @@
 
 <code>Python</code> • <code>Pandas</code> • <code>Matplotlib</code> • <code>Plotly</code> • <code>PowerPoint</code>
 
+
+- `GITHUB_TOKENS` - Comma delimited list of Github Tokens. Required for Github Badges
+
 <img src="images/project1_thumbnail.png?raw=true"/>
 
 <p>Подготовлено исследование рынка на основе открытых данных о заведениях общественного питания Москвы. Визуализированы полученные данные: графики построены при помощи библиотеки plotly и использованы затем в презентации. По результатам анализа даны общие рекомендации по выбору места для открытия новой кофейни. </p> 
