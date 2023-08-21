@@ -10,7 +10,7 @@
 
 <p>Исследование рынка общественного питания на основе открытых данных, подготовка презентации.</p>
 
-<code>Python</code>  <code>Pandas</code>  <code>Matplotlib</code>  <code>Plotly</code>  <code>PowerPoint</code>
+<code>Python</code> • <code>Pandas</code> • <code>Matplotlib</code> • <code>Plotly</code> • <code>PowerPoint</code>
 
 <img src="images/project1_thumbnail.png?raw=true"/>
 
