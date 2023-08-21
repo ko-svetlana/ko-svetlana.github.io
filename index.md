@@ -8,14 +8,11 @@
 
 ### Анализ рынка общепита
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ko-svetlana/educational-projects/tree/main/catering-market-research)
-
 <p>Исследование рынка общественного питания на основе открытых данных, подготовка презентации.</p>
 
-<code>Python</code> • <code>Pandas</code> • <code>Matplotlib</code> • <code>Plotly</code> • <code>PowerPoint</code>
+<code>Python</code> • <code>Pandas</code> • <code>Matplotlib</code> • <code>Plotly</code> 
 
-
-- `GITHUB_TOKENS` - Comma delimited list of Github Tokens. Required for Github Badges
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ko-svetlana/educational-projects/tree/main/catering-market-research)
 
 <img src="images/project1_thumbnail.png?raw=true"/>
 
