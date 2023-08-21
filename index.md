@@ -2,34 +2,17 @@
 
 ---
 
-### Category Name 1 
+### Учебные проекты
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
+[Анализ рынка общепита](/sample_page)
+<p>Исследование рынка общественного питания на основе открытых данных, подготовка презентации.</p>
+`Python`   `Pandas`   `Matplotlib`   `Plotly`  `PowerPoint`
+<br><br>
+<img src="images/project1_thumbnail.png?raw=true"/>
+<p>Подготовлено исследование рынка на основе открытых данных о заведениях общественного питания Москвы, визуализированы полученные данные. По результатам анализа даны общие рекомендации по выбору места для открытия новой кофейни. В построении графиков использована библиотека plotly.</p> 
 ---
 
 
 
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p><sub>Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></sub></p>
 <!-- Remove above link if you don't want to attibute -->
